@@ -8,7 +8,7 @@ window.onload = function () {
     }
 
     if (performance.navigation.type !== 1) {
-        document.querySelector(".links1 a[href='#top']").style.display = 'none';
+        document.querySelector(".links1 a[href='#top']");
     }
 
     window.scrollTo(0, 0);
