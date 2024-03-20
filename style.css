@@ -25,6 +25,10 @@
         display: none;
     }
 
+    #sub {
+        display: none;
+    }
+
     .arrow-up .fa-home {
         display: none;
     }
@@ -105,7 +109,7 @@
     }
 
     .arrow-up {
-        background-color: #CB8601;
+        background-color: #2E2E2E;
         z-index: 99999;
         position: fixed;
         bottom: 0px;
@@ -132,7 +136,7 @@
     }
 
     .arrow-up i:hover {
-        color: black;
+        color: #CB8601;
     }
 
 }
